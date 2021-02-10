@@ -1,0 +1,13 @@
+Web Socket: 
+- Communication between client and server
+- Bidirectional (data flows both ways)
+- Allow real-time data flow
+
+Use of Web Socket:
+- Multiplayer browser games
+- Collaborative code editing
+- Live text for sport/news websites
+- Online drawing canvas
+- Real-time to-do apps with multiple users, etc.
+
+
